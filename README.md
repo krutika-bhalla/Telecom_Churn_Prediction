@@ -30,3 +30,5 @@ I trained my model assiduously over 100 epochs, and it exhibited an encouraging 
 I polished my expertise in managing and refining complex datasets.
 I deepened my understanding of customer behavior nuances through data visualization.
 I fine-tuned my ability to forge predictive models utilizing deep learning technologies.
+
+🚀 Link - https://colab.research.google.com/drive/1ssoOx4pOMlEujQu2tpgZ15adFfZBd1n-?usp=sharing
